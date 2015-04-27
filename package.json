@@ -1,0 +1,23 @@
+{
+  "name": "karma-jasmine-unexpected-extension",
+  "version": "0.0.1",
+  "description": "Allows to use Jasmine and Unexpected assertions side by side",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": " git://github.com/LFDM/karma-jasmine-unexpected-extension"
+  },
+  "keywords": [
+    "karma-plugin",
+    "unexpected",
+    "jasmine"
+  ],
+  "author": {
+    "name": "LFDM",
+    "email": "1986gh@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "unexpected": "^7.0.1"
+  }
+}
